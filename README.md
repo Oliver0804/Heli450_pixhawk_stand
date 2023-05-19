@@ -5,5 +5,5 @@
 
 
 # Heli450_gps_stand
-![1](https://github.com/Oliver0804/Heli450_pixhawk_stand/blob/main/pic/gps.png)
-![2](https://github.com/Oliver0804/Heli450_pixhawk_stand/blob/main/pic/gps1.png)
+![1](https://github.com/Oliver0804/Heli450_pixhawk_stand/blob/main/pic/GPS.png)
+![2](https://github.com/Oliver0804/Heli450_pixhawk_stand/blob/main/pic/GPS2.png)
